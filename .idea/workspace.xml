@@ -2,46 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0a3479-8df8-4c2f-a3d7-0e429ac23c94" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/document.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/document.synctex.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/images/grafico5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/images/umss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/document.aux" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/document.out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/document.tex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/document.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/spanishAlgorithmic.tex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/Serial/conexBluetoom_ino/conexBluetoom_ino.ino" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/Serial/pruebas/pruebas.ino" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/archivosXML/firtTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/archivosXML/grabacion3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/archivosXML/grabacion4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/archivosXML/grabacion5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/archivosXML/grabado.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/archivosXML/monitoreo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/archivosXML/monitoreo2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/archivosXML/monitoreo3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/archivosXML/monitoreo4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/archivosXML/monitoreo5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/imagenes/auto2/abrir.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/imagenes/auto2/cerrar.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/archivosUi/openXML.ui" afterPath="$PROJECT_DIR$/resources/filesUI/openXML.ui" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/archivosUi/proyecto.ui" afterPath="$PROJECT_DIR$/resources/filesUI/proyect.ui" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/archivosUi/saveXML.ui" afterPath="$PROJECT_DIR$/resources/filesUI/saveXML.ui" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/imagenes/auto1/abrir.png" afterPath="$PROJECT_DIR$/resources/images/car/openPincer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/imagenes/auto1/cerrar.png" afterPath="$PROJECT_DIR$/resources/images/car/closePincer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/imagenes/iconos/der.jpeg" afterPath="$PROJECT_DIR$/resources/images/iconos/back.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/imagenes/iconos/izq.jpg" afterPath="$PROJECT_DIR$/resources/images/iconos/front.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/document.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/document.synctex.gz" afterPath="$PROJECT_DIR$/documentation/document.synctex.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/view/window.py" afterPath="$PROJECT_DIR$/project/view/window.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/view/windowOpenFileXML.py" afterPath="$PROJECT_DIR$/project/view/windowOpenFileXML.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/view/windowRobot.py" afterPath="$PROJECT_DIR$/project/view/windowRobot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/view/windowSaveFileXML.py" afterPath="$PROJECT_DIR$/project/view/windowSaveFileXML.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/Serial/Serial.ino" afterPath="$PROJECT_DIR$/resources/Serial/Serial.ino" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/document.tex" afterPath="$PROJECT_DIR$/documentation/document.tex" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,8 +19,8 @@
       <file leaf-file-name="windowRobot.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/view/windowRobot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            <state relative-caret-position="-311">
+              <caret line="232" column="0" lean-forward="true" selection-start-line="232" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
               <folding>
                 <element signature="e#44#78#0" expanded="true" />
               </folding>
@@ -244,6 +208,11 @@
             <path>
               <item name="ProjectProgramming" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjectProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectProgramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProjectProgramming" type="b2602c69:ProjectViewProjectNode" />
@@ -441,9 +410,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="36" width="1366" height="712" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2613293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2613293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.9153094" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -451,7 +419,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27361563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08957655" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64169383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -778,8 +746,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/view/windowRobot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        <state relative-caret-position="-311">
+          <caret line="232" column="0" lean-forward="true" selection-start-line="232" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
           <folding>
             <element signature="e#44#78#0" expanded="true" />
           </folding>
