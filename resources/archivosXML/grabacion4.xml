@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<auto>
-  <datos posX="591" posY="381.0548284619341" m="0.0" b="381.0548284619341" orientation="o" angle="0.0" lastPz="None" lastMv="X" rotation="0.0"/>
-  <movimiento time="663" movement="X" pincer="T"/>
-  <movimiento time="1372" movement="S" pincer="T"/>
-  <movimiento time="1026" movement="D" pincer="T"/>
-  <movimiento time="1695" movement="X" pincer="T"/>
-</auto>

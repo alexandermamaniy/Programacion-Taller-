@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<auto>
+  <datos posX="543" posY="384" m="0" b="384" orientation="o" angle="0" lastPz="None" lastMv="X" rotation="0"/>
+  <movimiento time="357" movement="X" pincer="T"/>
+  <movimiento time="1274" movement="W" pincer="T"/>
+  <movimiento time="457" movement="S" pincer="T"/>
+  <movimiento time="839" movement="A" pincer="T"/>
+  <movimiento time="3133" movement="X" pincer="T"/>
+</auto>

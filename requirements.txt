@@ -1,0 +1,7 @@
+pygame===1.9.1release
+pyserial==3.4
+lxml==4.0.0
+PyQt5
+matplotlib==2.0.0
+numpy==1.12.1
+pyqtgraph==0.10.0

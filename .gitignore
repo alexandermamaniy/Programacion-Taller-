@@ -1,0 +1,15 @@
+#Compiled class file
+*.pyc
+
+# Log file
+*.log
+
+# Pycharm files
+*.idea
+
+# git files
+*.git
+
+# pycharm cache
+__pycache__
+

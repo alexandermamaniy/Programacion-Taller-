@@ -13,7 +13,7 @@ class DialogOpenXML(QDialog):
 
         QDialog.__init__(self)
 
-        routeOfTheFileUI = "../../resources/archivosUi/openXML.ui"
+        routeOfTheFileUI = "../../resources/filesUI/openXML.ui"
         uic.loadUi(routeOfTheFileUI, self)
         self.window = window
 

@@ -17,9 +17,9 @@ class Window(QMainWindow, Event):
         super(QMainWindow, self).__init__()
 
         pygame.init()
-        routeImages = "../../resources/imagenes/"
+        routeImages = "../../resources/images/"
         tittleWindow = "Project Robot"
-        routeOfFileUI = "../../resources/archivosUi/proyecto.ui"
+        routeOfFileUI = "../../resources/filesUI/proyect.ui"
         widthGraphicR = pygame.display.Info().current_w
         heightGraphicR = pygame.display.Info().current_h
         uic.loadUi( routeOfFileUI ,self)
@@ -28,7 +28,7 @@ class Window(QMainWindow, Event):
         self.setGeometry(0, 0, widthGraphicR, heightGraphicR)
         self.graphicV.setGeometry(100,100,widthGraphicR-450,heightGraphicR-200)
         robot =  Robot.getInstance(self)
-        robot.uploadImageRobot(routeImages, 'auto1')
+        robot.uploadImageRobot(routeImages, 'car')
         robot.show()
 
         #self.imprimir = threading.Thread(target=self.informacion, args=(robot,))

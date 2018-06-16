@@ -116,7 +116,7 @@
    </property>
    <property name="icon">
     <iconset>
-     <normaloff>../imagenes/iconos/der.jpeg</normaloff>../imagenes/iconos/der.jpeg</iconset>
+     <normaloff>../images/iconos/back.jpeg</normaloff>../images/iconos/back.jpeg</iconset>
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton_3">
@@ -133,7 +133,7 @@
    </property>
    <property name="icon">
     <iconset>
-     <normaloff>../imagenes/iconos/izq.jpg</normaloff>../imagenes/iconos/izq.jpg</iconset>
+     <normaloff>../images/iconos/front.jpg</normaloff>../images/iconos/front.jpg</iconset>
    </property>
   </widget>
  </widget>

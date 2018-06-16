@@ -46,7 +46,7 @@ class Robot(QLabel):
     def uploadImageRobot(self, routeImage, auto):
         self.image = QImage()
         self.routeImage = routeImage + auto
-        self.image.load(self.routeImage + "/cerrar.png")
+        self.image.load(self.routeImage + "/closePincer.png")
         pixmap = QPixmap(self.image)
         self.centerX = pixmap.rect().center().x()
         self.centerY = pixmap.rect().center().y()
@@ -148,7 +148,7 @@ class Robot(QLabel):
 
     def __openPincers(self):
         self.image = QImage()
-        self.image.load(self.routeImage + "/abrir.png")
+        self.image.load(self.routeImage + "/openPincer.png")
         pixmap = QPixmap(self.image)
         transform = QTransform().rotate(self.rotation)
         pixmap = pixmap.transformed(transform, QtCore.Qt.SmoothTransformation)
@@ -156,7 +156,7 @@ class Robot(QLabel):
 
     def __closePincers(self):
         self.image = QImage()
-        self.image.load(self.routeImage + "/cerrar.png")
+        self.image.load(self.routeImage + "/closePincer.png")
         pixmap = QPixmap(self.image)
         transform = QTransform().rotate(self.rotation)
         pixmap = pixmap.transformed(transform, QtCore.Qt.SmoothTransformation)

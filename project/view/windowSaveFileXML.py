@@ -11,7 +11,7 @@ class DialogSaveXML(QDialog):
     def __init__(self, window):
 
         QDialog.__init__(self)
-        routeOfTheFileUI = "../../resources/archivosUi/saveXML.ui"
+        routeOfTheFileUI = "../../resources/filesUI/saveXML.ui"
 
         uic.loadUi(routeOfTheFileUI, self)
         self.window = window

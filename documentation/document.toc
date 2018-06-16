@@ -1,0 +1,16 @@
+\select@language {spanish}
+\contentsline {paragraph}{Palabras clave:}{1}{section*.2}
+\contentsline {section}{\'{I}ndice}{2}{section*.3}
+\contentsline {section}{\numberline {1}INTRODUCCI\IeC {\'O}N}{3}{section.1}
+\contentsline {section}{\numberline {2}DISE\IeC {\~N}O DEL SOFTWARE}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Arquitectura}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}View}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Controller}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Model}{5}{subsection.2.4}
+\contentsline {section}{\numberline {3}ALGORITMIA}{6}{section.3}
+\contentsline {section}{\numberline {4}METODOL\IeC {\'O}GICA Y FUENTE}{8}{section.4}
+\contentsline {subsection}{\numberline {4.1}Composicion de grupo}{8}{subsection.4.1}
+\contentsline {section}{\numberline {5}GLOSARIO DE T\IeC {\'E}RMINOS}{9}{section.5}
+\contentsline {subsection}{\numberline {5.1}Diccionario}{9}{subsection.5.1}
+\contentsline {section}{\numberline {6}BLIBLIOGRAFIA}{10}{section.6}
+\contentsline {section}{Referencias}{10}{section*.4}
